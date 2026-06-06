@@ -7,7 +7,7 @@ This project presents an interactive Power BI dashboard built using the Global S
 ## Objectives
 
 * Analyze overall business performance.
-* Track sales and profit trends over time.
+* Track sales and profit trends over time. 
 * Identify top-performing categories and markets.
 * Monitor key business KPIs.
 * Support data-driven decision making.
